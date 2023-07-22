@@ -1,1 +1,3 @@
-javac -sourcepath ./src -d out src/ru/gb/tituchenko/Main.java
+javac -sourcepath ./src -d out src/ru/gb/tituchenko/Main.java -encoding utf-8
+java -classpath ./out ru/gb/tituchenko/Main -encoding utf-8 -Dfile.encoding=UTF-8
+

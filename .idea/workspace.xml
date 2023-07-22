@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0794fa31-a5b6-44b4-a0db-c8358f014867" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaCore hw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/tituchenko/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/tituchenko/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/gb/tituchenko/inputWord.java" afterDir="false" />
+    <list default="true" id="0794fa31-a5b6-44b4-a0db-c8358f014867" name="Changes" comment="сщььше">
+      <change afterPath="$PROJECT_DIR$/docker-compose-class.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +49,30 @@
       <option name="presentableId" value="Default" />
       <updated>1690042229613</updated>
     </task>
+    <task id="LOCAL-00001" summary="сщььше">
+      <created>1690048031751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690048031751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="сщььше" />
+    <option name="LAST_COMMIT_MESSAGE" value="сщььше" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
